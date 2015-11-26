@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tests
+Bundle-SymbolicName: org.filho.testplugin.tests
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.filho.testplugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.junit;version="4.12.0"
